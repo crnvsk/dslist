@@ -11,6 +11,7 @@ This project is a simple backend of games and their data (title, release year, g
 ## Technologies
 * Java 17
 * Spring Boot 3.1.1
+* Spring Tool Suite 4 for Eclipse IDE
 
 ## Dependecies
 * Spring Web
