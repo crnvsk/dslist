@@ -13,7 +13,7 @@ This project is a simple backend of games and their data (title, release year, g
 * Spring Boot 3.1.1
 * Spring Tool Suite 4 for Eclipse IDE
 
-## Dependecies
+## Dependencies
 * Spring Web
 * Spring Data JPA
 * H2 Database
